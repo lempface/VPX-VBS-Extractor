@@ -34,14 +34,14 @@ TIMEOUT: Hurricane (Williams 1991).vbs - Unsure if script was extracted correctl
 
 ### Examples
 
- - Standard Usage
+ - Standard Usage  
 VPX-VBS-Extractor.exe --pathToTables "D:\vPinball\VisualPinball\Tables" -pathToVPinballX "D:\vPinball\VisualPinball\VPinballX.exe" 
 
- - Test Mode
+ - Test Mode  
  VPX-VBS-Extractor.exe --pathToTables "D:\vPinball\VisualPinball\Tables" -pathToVPinballX "D:\vPinball\VisualPinball\VPinballX.exe" -s
  
- - Slow Computer - Increase timeout before starting the next extraction (120 seconds)
+ - Slow Computer - Increase timeout before starting the next extraction (120 seconds)  
  VPX-VBS-Extractor.exe --pathToTables "D:\vPinball\VisualPinball\Tables" -pathToVPinballX "D:\vPinball\VisualPinball\VPinballX.exe" -w 120
  
- - Overwrite existing .VBS files
+ - Overwrite existing .VBS files  
   VPX-VBS-Extractor.exe --pathToTables "D:\vPinball\VisualPinball\Tables" -pathToVPinballX "D:\vPinball\VisualPinball\VPinballX.exe" -o

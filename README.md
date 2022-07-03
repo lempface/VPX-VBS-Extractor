@@ -26,10 +26,8 @@ The console will write CREATE, SKIP, or TIMEOUT to based on the result of the
 
 e.g.
 
-CREATE: Freddy A Nightmare On Elm Street (Gottlieb 1994).vbs
-
-SKIP: Script already exists for Avengers LE (Stern 2012).vpx
-
+CREATE: Freddy A Nightmare On Elm Street (Gottlieb 1994).vbs  
+SKIP: Script already exists for Avengers LE (Stern 2012).vpx  
 TIMEOUT: Hurricane (Williams 1991).vbs - Unsure if script was extracted correctly.
 
 ### Examples
